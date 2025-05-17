@@ -1,9 +1,11 @@
 # Computação Gráfica - Híbrido
 
 ## Grupo:
-Inara Valentim,
-Pedro de Gasperi,
-Kauã Marks,
+Inara Valentim,  
+
+Pedro de Gasperi,  
+
+Kauã Marks,  
 
 
 ## 📂 Estrutura do Repositório
