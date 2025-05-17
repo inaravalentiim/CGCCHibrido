@@ -1,6 +1,6 @@
 # Computação Gráfica - Híbrido
 
-##Grupo:
+## Grupo:
 Inara Valentim
 Pedro de Gasperi 
 Kauã Marks
