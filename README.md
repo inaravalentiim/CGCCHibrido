@@ -1,11 +1,10 @@
 # Computação Gráfica - Híbrido
 
 ## Grupo:
-Inara Valentim
-Pedro de Gasperi 
-Kauã Marks
+Inara Valentim,
+Pedro de Gasperi,
+Kauã Marks,
 
-Repositório de exemplos de códigos em C++ utilizando OpenGL moderna (3.3+) criado para a Atividade Acadêmica Computação Gráfica do curso de graduação em Ciência da Computação - modalidade híbrida - da Unisinos. Ele é estruturado para facilitar a organização dos arquivos e a compilação dos projetos utilizando CMake.
 
 ## 📂 Estrutura do Repositório
 
